@@ -4,9 +4,16 @@
 [![Build Status](https://travis-ci.org/uxsolutions/bootstrap-datepicker.svg?branch=master)](https://travis-ci.org/uxsolutions/bootstrap-datepicker)
 [![GitHub license](https://img.shields.io/badge/license-Apache%202-blue.svg)](https://raw.githubusercontent.com/uxsolutions/bootstrap-datepicker/master/LICENSE)
 [![npm](https://img.shields.io/npm/dt/bootstrap-datepicker.svg)](https://github.com/uxsolutions/bootstrap-datepicker)
-[![Twitter Follow](https://img.shields.io/twitter/follow/bsdatepicker.svg?style=social&label=Follow)](https://twitter.com/bsdatepicker)
 
 Versions are incremented according to [semver](https://semver.org/).
+
+## SASS And Bootstrap 5
+
+Ported LESS to SASS and utilizing Bootstrap 5 variables directly without needing hard copies.
+
+Currently cannot be built on its own, still under development, for now only available as part of a larger SASS project already including Bootstrap 5 (no NPM package as yet, only as github clone).
+
+Future commits will fix all above and improve.  
 
 ## CDN
 
